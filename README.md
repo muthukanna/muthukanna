@@ -106,33 +106,6 @@ public class MuthuK extends JavaDeveloper {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/muthukanna97">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muthukanna97&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/muthukanna97">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthukanna97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=muthukanna97&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muthukanna97&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ## 🏆 Trophy Wall
@@ -224,6 +197,12 @@ public class MuthuK extends JavaDeveloper {
 | 🏗️ | **Infrastructure Automator** | Terraform-based IaC; **65% faster** environment provisioning |
 | 📊 | **Reporting Optimizer** | Oracle Materialized Views improved dashboard load times by **50%** |
 | 🔄 | **Legacy Modernizer** | COBOL → Java 17 microservices; **40% infrastructure footprint reduction** |
+| 🏅 | **Insta Award — Infosys Limited** | Recognized for outstanding performance and contributions |
+| 🎓 | **TCS iEvolve Certifications** | Java Programming, Spring Boot, SAP Basis & REST APIs — Tata Consultancy Services |
+| 🐍 | **Python Programming — Udemy** | Completed industry-recognized Python course |
+| 🤖 | **Machine Learning Workshop** | University College of Engineering, Villupuram |
+| 📱 | **Android App Development Workshop** | U.N.I.Q Technologies, Chennai |
+| 🏭 | **Implant Training** | U.N.I.Q Technologies, Chennai |
 
 </div>
 
